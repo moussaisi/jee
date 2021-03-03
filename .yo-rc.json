@@ -1,0 +1,39 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.myproject.isi"
+    },
+    "jhipsterVersion": "6.10.5",
+    "applicationType": "monolith",
+    "baseName": "myproject",
+    "packageName": "com.myproject.isi",
+    "packageFolder": "com/myproject/isi",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "no",
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "mysql",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": false,
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "YjZhNDA4OGFlZGI3YmFlNTFlYjE5OGUzOTE4Mzg4NjY3YTljNTQ3M2M3NzRjNzIwNmQ0M2UyMmU2ZmVlNjUwMmIwMmZlZmY0NjQwNjk4YzhiYzgyNzc1ZmQ1NjI3MzNmNjg4MjRjZWNjMGM2ZGRhZDhiOGM2NTgxOTNjOGVmNjg=",
+    "embeddableLaunchScript": false,
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "clientFramework": "angularX",
+    "clientTheme": "none",
+    "clientThemeVariant": "",
+    "creationTimestamp": 1612005576526,
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": false,
+    "blueprints": []
+  }
+}
